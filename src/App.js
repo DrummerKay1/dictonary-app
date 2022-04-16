@@ -1,9 +1,14 @@
+import DictionarySearch from "./DictionarySearch";
+
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello world</h1>
+      <div className="container">
+        <DictionarySearch />
+        <footer>Coded by Kayla Neuss</footer>
+      </div>
     </div>
   );
 }

@@ -1,0 +1,29 @@
+.DictionarySearch {
+  background-color: rgb(214, 250, 255);
+  border: 1px solid #2c6974;
+  border-radius: 20px;
+  box-shadow: 1px 1px 2px #096a7b;
+  padding: 40px;
+  max-width: 70%;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+  color: #02343c;
+}
+.searchBar {
+  padding: 30px;
+}
+.form-control {
+  border-radius: 60px;
+}
+.btn-primary {
+  background: #096a7b;
+  border: 1px solid #1377a5;
+  border-radius: 40px;
+  box-shadow: 1px 1px 3px #04293a;
+  transition: all 2ms ease-in-out;
+}
+.btn-primary:hover {
+  background-color: #0c73a2;
+}
