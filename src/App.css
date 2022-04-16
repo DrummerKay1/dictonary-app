@@ -1,5 +1,21 @@
-.container{
-    padding: 30px;
-    background: radial-gradient(circle at 10% 20%, rgb(166, 226, 229) 0%, rgb(198, 232, 221) 100.2%);
-    max-width: 100%;
+.container {
+  padding: 30px;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(166, 226, 229) 0%,
+    rgb(198, 232, 221) 100.2%
+  );
+  max-width: 100%;
+}
+.footer {
+  font-size: 16px;
+  padding: 15px;
+  color: #02343c;
+  text-align: center;
+}
+.link {
+  color: rgb(4, 128, 132);
+}
+.link:hover {
+  color: #0c73a2;
 }
