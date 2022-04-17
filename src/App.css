@@ -6,6 +6,13 @@
     rgb(198, 232, 221) 100.2%
   );
   max-width: 100%;
+  min-height: 100vh;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: #02343c;
 }
 .footer {
   font-size: 16px;

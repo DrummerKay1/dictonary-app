@@ -1,4 +1,4 @@
-.DictionarySearch {
+.search {
   background-color: rgb(214, 250, 255);
   border: 1px solid #2c6974;
   border-radius: 20px;
@@ -9,7 +9,6 @@
 }
 h1 {
   text-align: center;
-  color: #02343c;
 }
 .searchBar {
   padding: 30px;
