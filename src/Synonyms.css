@@ -1,0 +1,12 @@
+.Synonyms ul {
+  color: #096a7b;
+  margin: 0, 20px;
+  padding: 10px;
+}
+.Synonyms li {
+  display: inline;
+  padding-right: 10px;
+}
+.Synonyms {
+  font-size: 20px;
+}
