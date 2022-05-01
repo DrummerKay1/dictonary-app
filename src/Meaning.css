@@ -5,8 +5,8 @@
 .Meaning .example {
   color: #096a7b;
   font-size: 16px;
-  opacity: 0.7;
   font-style: italic;
+  opacity: 0.7;
   text-align: right;
 }
 .Meaning .definitions {
