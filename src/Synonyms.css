@@ -4,7 +4,7 @@
   padding: 10px;
 }
 .Synonyms li {
-  display: inline;
+  display: inline-block;
   padding-right: 10px;
 }
 .Synonyms {
