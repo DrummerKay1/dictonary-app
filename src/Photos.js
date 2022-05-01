@@ -11,7 +11,7 @@ export default function Photos(props) {
               <div className="col-4" key={index}>
                 <a
                   href={photo.src.original}
-                  alt={photo.alt}
+                  alt="{photo.alt}"
                   target="_blank"
                   rel="noreferrer"
                 >
